@@ -44,12 +44,12 @@ h2 {
 input {
     width: 100%;
     padding: 12px;
-    background: green;
+    background: white;
     border-radius: 6px;
     border: none;
     outline: none;
     font-size: 16px;
-    color: red;
+    color: black;
     margin-bottom: 20px;
 
 }
