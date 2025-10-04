@@ -18,7 +18,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(to right, pink, blue);
+    background: linear-gradient(to right, rgb(255, 207, 214), rgb(82, 82, 214));
     color: purple;
 }
 
