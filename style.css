@@ -18,8 +18,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: lightpink;
-    color: white;
+    background: orange;
+    color: orange;
 }
 
 .container {
@@ -38,13 +38,14 @@ body {
 
 .form-box.active {
     display: block;
-    
+
 }
 
 h2 {
     font-size: 34px;
     text-align: center;
     margin-bottom: 20px;
+    color: black;
 }
 
 input, select {
